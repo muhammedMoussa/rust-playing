@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 ferris-says = "0.1"
+typename = "0.1.1"
+
